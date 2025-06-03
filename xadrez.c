@@ -2,6 +2,7 @@
 
 //Desafio de xadrez iniciante
 //Movimentação de peças
+//Todas as solicitações do modo iniciante foram atendidas
 
 int main(){
     int i = 1;
